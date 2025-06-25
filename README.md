@@ -4,7 +4,6 @@ Este é o site oficial do jogador **Daniel Cruz**, desenvolvido com HTML e CSS. 
 
 🔗 Acesse o site online:  
 [https://seuusuario.github.io/danielcruz-portfolio](https://seuusuario.github.io/danielcruz-portfolio)  
-(Substitua pelo link gerado pelo GitHub Pages)
 
 ---
 
